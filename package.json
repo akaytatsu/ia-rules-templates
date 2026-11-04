@@ -28,5 +28,8 @@
   "homepage": "https://github.com/akaytatsu/ia-rules-templates#readme",
   "dependencies": {
     "inquirer": "^12.6.3"
+  },
+  "overrides": {
+    "tmp": "0.2.7"
   }
 }
